@@ -9,12 +9,6 @@ class Solution {
         }
         return k;
     }
-    public static void main(String[]args)
-    {
-        int []nums={0,1,2,2,3,0,4,2};
-        Solution sc=new Solution();
-        System.out.println(sc.removeElement(nums,2));
-    }
 }
     
     
