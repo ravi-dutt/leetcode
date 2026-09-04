@@ -19,14 +19,7 @@ class Solution {
             }
             return maxarea;
         }
-        public static void main(String[] args) {
-            Solution water=new Solution();
-            int height[]={1,8,6,2,5,4,8,3,7};
-            int result =water.maxArea(height);
-            System.out.println("Max area="+result);
-
-        }
-}          
+}   
 
     
     
