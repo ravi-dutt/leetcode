@@ -1,4 +1,3 @@
-
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer>al=new ArrayList<>();
