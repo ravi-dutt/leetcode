@@ -16,9 +16,9 @@ class Solution {
              else{
                 r--;
              }
-            }
-            return maxarea;
         }
+            return maxarea;
+    }
 }   
 
     
